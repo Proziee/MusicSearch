@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">HW05</string>
+    <string name="search">Search</string>
+    <string name="searchMusic">Search Music</string>
+    <string name="musicSearch"> Music Search</string>
+    <string name="results"> Music Results </string>
+    <string name="searchResults"> Search Results </string>
+    <string name="trackDetails"> Track Details </string>
+    <string name="name">Name:</string>
+    <string name="artist">Artist:</string>
+    <string name="url">URL:</string>
+    <string name="simliarTracks">Similar Tracks</string>
+    <string name="home">Home</string>
+    <string name="quit">Quit</string>
+
+
+</resources>
